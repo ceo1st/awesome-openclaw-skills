@@ -1,0 +1,22 @@
+{
+  "name": "awesome-openclaw-skills",
+  "version": "1.0.0",
+  "description": "Discover 5490+ community-built OpenClaw skills, organized by category",
+  "scripts": {
+    "build": "echo 'No build step required for static site'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ceo1st/awesome-openclaw-skills"
+  },
+  "keywords": [
+    "openclaw",
+    "skills",
+    "awesome-list"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.1.0"
+  }
+}
